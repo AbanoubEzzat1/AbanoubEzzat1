@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there I'm Abanoub Ezzat 👋❤️
+<img src="https://firebasestorage.googleapis.com/v0/b/courseflutter-2d8c3.appspot.com/o/Images%2FHi%20there%20I'm%20Abanoub%20Ezzat.gif?alt=media&token=296b5516-d2ef-450d-9863-1aa9c0c8d675"  style="width:500px;height:400px;">
+- 🎓Recent computer science graduate from MTI - Modern University For
+Technology & Information
 <!--
 **AbanoubEzzat1/AbanoubEzzat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
