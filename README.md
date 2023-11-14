@@ -2,7 +2,7 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/courseflutter-2d8c3.appspot.com/o/Images%2FHi%20there%20I'm%20Abanoub%20Ezzat%20(1).gif?alt=media&token=308bd46c-eec6-4be9-a5d5-bea1b1829e4e" style="width:500px;height:400px;" align="right">
 Education 🎓</br>
-Bachelor's of Computersand Information Majoring in </br>
+Bachelor's of computer and information technology Majoring in </br>
 Computer Science  </br>
 Modern University For Technology & Information MTI  </br>
 PRIFYSGOL CYMRU UNIVERSITY OF WALES Cardiff </br>
