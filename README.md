@@ -5,7 +5,7 @@ Education 🎓</br>
 Bachelor's of Computersand Information Majoring in </br>
 Computer Science  </br>
 Modern University For Technology & Information MTI  </br>
-PRIFYSGOL CYMRU UNIVERSITY OF WALES  </br>
+PRIFYSGOL CYMRU UNIVERSITY OF WALES Cardiff </br>
 <hr>
 
 
