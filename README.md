@@ -13,7 +13,7 @@ PRIFYSGOL CYMRU UNIVERSITY OF WALES  </br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abanoubezzat50@gmail.com)](mailto:abanoubezzat50@gmail.com)
 <a href="https://www.facebook.com/AAbanoubEzzat" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/abanoubezzat63/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://play.google.com/store/apps/developer?id=Abanoub+Ezzat" target="_blank"><img src="https://img.shields.io/badge/google-play%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="GooglePlay"></a>
+<a href="https://play.google.com/store/apps/developer?id=Abanoub+Ezzat" target="_blank"><img src="https://img.shields.io/badge/Store%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="GooglePlay"></a>
 
 
  
